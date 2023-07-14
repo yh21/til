@@ -33,4 +33,4 @@ print(분기[:7]) #039
 
 data = "   삼성전자    "
 data_1 = data.split()
-print(data_1)
+print(data_1) #040
