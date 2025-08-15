@@ -10,3 +10,5 @@ index = message.index('n', index + 1)
 print(index) # 두 번째로 n이 나오는 index
 
 print(message.find('Java')) # 문자열이 없으면 -1 반환
+
+print(message.count('n')) # message 안의 n 개수 반환
